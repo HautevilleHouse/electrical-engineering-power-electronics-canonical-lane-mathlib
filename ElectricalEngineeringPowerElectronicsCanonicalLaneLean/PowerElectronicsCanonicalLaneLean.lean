@@ -1,0 +1,18 @@
+import PowerElectronicsCanonicalLaneLean.PowerConverterAdmissibleClass
+import PowerElectronicsCanonicalLaneLean.BridgeLemmas
+import PowerElectronicsCanonicalLaneLean.PowerConverterTopology
+import PowerElectronicsCanonicalLaneLean.SwitchingControl
+import PowerElectronicsCanonicalLaneLean.PowerSystemStability
+import PowerElectronicsCanonicalLaneLean.FinalTheorem
+
+/-!
+# Power Electronics Canonical Lane Lean Package
+
+Root module for the Electrical Engineering Power Electronics canonical lane.
+-/
+
+namespace HautevilleHouse
+namespace PowerElectronicsCanonicalLaneLean
+
+end PowerElectronicsCanonicalLaneLean
+end HautevilleHouse
